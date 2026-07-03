@@ -18,7 +18,7 @@
    
 }
 header {
-    background: linear-gradient(black , grey);
+    background: linear-gradient(black , rgb(0, 17, 255));
     width: 100%;
     position: fixed;
     z-index: 999;
